@@ -1,1 +1,1 @@
-(tell me )*(who plays in|the movie cast of|who stars in)( the movie)* (?P<MovieName>.*)
+(of |for )*(?P<MovieName>.*)

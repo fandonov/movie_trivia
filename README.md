@@ -1,19 +1,15 @@
-To submit your skill, replace this file with text from 
-https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
-
-
-## YOUR SKILL NAME
-One line description of the skill
+## movie trivia
+A skill for movie facts
 
 ## Description 
-A more verbose description, including any extra instructions or
-information that didn't fit in the one line.
+With self contained db from opendb project, this skill knows lets Mycroft knows all about who plays who in what movie, directors, screen writers, etc. 
 
-## Examples 
-* "Hello world"
-* "Greetings planet earth"
-* "Count up"
-* "Count down"
+## Examples
+* "tell me who plays in die hard"
+* "tell me who stars in the movie home alone"
+* "tell me the movie cast of the terminator"
+* "tell me who wrote the music for the movie braveheart"
+* "tell me who directed home alone"
 
 ## Credits 
-Your name
+Filip Andonov
